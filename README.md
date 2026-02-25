@@ -1,6 +1,6 @@
 # Add-Fetch-student-login-using-motoko
 
-# pre requisite : https://github.com/Munyawera-Fils/Login-with-idenity-idenity
+# pre requisite : https://github.com/sebakara/Login-with-idenity-idenity
 
 You must created project using dfx new sample before merge this codes. this is for education purpose.
 
